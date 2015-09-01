@@ -36,7 +36,7 @@ unsigned long msgs_sent = 0;
 // Number of messages we received
 unsigned long msgs_received = 0;
 
-// Number of messages we received
+// Number of messages we lost
 unsigned long msgs_lost = 0;
 
 // Time we last update our stats
